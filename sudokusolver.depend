@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1553535736 source:c:\users\burts\desktop\sudokusolver\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"sudoku.h"
+
+1553535736 c:\users\burts\desktop\sudokusolver\sudoku.h
+
+1554124600 source:c:\users\burts\desktop\sudokusolver\sudoku.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"sudoku.h"
+
+1553532136 source:c:\users\burts\desktop\informatika\sudokusolver\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"sudoku.h"
+
+1553532136 c:\users\burts\desktop\informatika\sudokusolver\sudoku.h
+
+1554121000 source:c:\users\burts\desktop\informatika\sudokusolver\sudoku.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"sudoku.h"
+
